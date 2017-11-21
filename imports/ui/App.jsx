@@ -19,7 +19,7 @@ export default class App extends Component {
         <ul>
           <li>Some list item that is static</li>
         </ul>
-        <img style={{width: '100%'}} src='m1.png'/>
+        <img style={{maxWidth: '100%'}} src='m1.png'/>
       </div>
     );
   }
